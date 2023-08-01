@@ -14,4 +14,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
+x = input('Enter number:')
+for i in range(1,9)
+    if x == 0
+        print('Zero')
